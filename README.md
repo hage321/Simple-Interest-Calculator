@@ -1,4 +1,11 @@
-# Simple-Interest-Calculator
-Learning webpage by creating simple interest calculator  using , HTML, CSS, JAVASCRIPT
+# Simple Interest Calculator
 
-Simple Interest Calculator (Bash) — sample repo to help migrate SVN → Git. Includes contributing guidelines and Apache-2.0 license.
+A small Bash script that calculates **Simple Interest**. This repository was created to help migrate sample code from Subversion (SVN) to Git and to demonstrate open-source best practices.
+
+## Formula
+Simple Interest (SI) = (Principal × Rate × Time) / 100
+
+## Usage
+Run the script:
+```bash
+bash simple-interest.sh
